@@ -1,0 +1,3 @@
+Hello {{user.username}}
+Welcome to pomodoro
+We have just seen you have signed up for our application and want to welcome you to the family. Please your work breaks as you set them here.
